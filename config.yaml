@@ -1,0 +1,7 @@
+path: C:\Users\ADITYA\Desktop\Form OCR\Yolov8
+train: images/train
+val: images/val
+
+names:
+  0: sign
+  1: handwritten
